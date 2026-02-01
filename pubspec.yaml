@@ -6,8 +6,8 @@ homepage: https://github.com/arthenica/ffmpeg-kit
 version: 5.1.0-LTS
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=2.0.0"
+  sdk: ">=2.12.0 <4.0.0"
+  flutter: ">=3.29.0"
 
 flutter:
   plugin:
